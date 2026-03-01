@@ -1,38 +1,64 @@
 <!DOCTYPE html>
-<html lang="uk">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Tools Database — Каталог найкращих нейромереж</title>
+    <title>J.V. AI Index — Best AI Tools Catalog</title>
     <meta name="description"
-        content="Найбільший каталог ШІ-інструментів, нейромереж та сервісів штучного інтелекту. Знайдіть ідеальний AI для тексту, відео, програмування та дизайну.">
+        content="The largest catalog of AI tools, neural networks, and artificial intelligence services. Find the perfect AI for text, video, coding, and design.">
     <meta name="keywords"
-        content="штучний інтелект, нейромережі, каталог ШІ, AI tools, ChatGPT, Midjourney, Claude, генерація відео">
+        content="artificial intelligence, neural networks, AI tools catalog, ChatGPT, Midjourney, Claude, video generation, best AI">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <!-- i18n must load before script.js -->
+    <script src="i18n.js"></script>
 </head>
 
 <body>
     <header class="hero">
         <div class="container">
-            <h1> <span class="gradient-text">J.V. AI Index</span></h1>
-            <p>Каталог найкращих ШІ-інструментів, який оновлюється сам.</p>
+            <div class="hero-top">
+                <h1><span class="gradient-text">J.V. AI Index</span></h1>
+                <!-- Language Switcher -->
+                <div class="lang-switcher" id="langSwitcher" aria-label="Language selector"></div>
+            </div>
+            <p data-i18n="site_subtitle">A self-updating catalog of the best AI tools.</p>
             <div class="search-box">
-                <input type="text" id="searchInput" placeholder="Пошук інструментів (напр., ChatGPT)...">
+                <input type="text" id="searchInput" data-i18n-placeholder="search_placeholder"
+                    placeholder="Search tools (e.g., ChatGPT)...">
             </div>
         </div>
     </header>
 
     <main class="container">
         <div class="filters">
-            <button class="filter-btn active" data-category="all">Всі</button>
-            <button class="filter-btn" data-category="text">Текст & Пошук</button>
-            <button class="filter-btn" data-category="image">Ілюстрації & Дизайн</button>
-            <button class="filter-btn" data-category="video">Відео</button>
-            <button class="filter-btn" data-category="audio">Звук & Голос</button>
-            <button class="filter-btn" data-category="code">Код</button>
+            <button class="filter-btn active" data-category="all" data-i18n="filter_all">All</button>
+            <button class="filter-btn" data-category="text" data-i18n="filter_text">Text &amp; Search</button>
+            <button class="filter-btn" data-category="image" data-i18n="filter_image">Images &amp; Design</button>
+            <button class="filter-btn" data-category="video" data-i18n="filter_video">Video</button>
+            <button class="filter-btn" data-category="audio" data-i18n="filter_audio">Audio &amp; Voice</button>
+            <button class="filter-btn" data-category="code" data-i18n="filter_code">Code</button>
+        </div>
+
+        <div class="tag-filters" id="tagFilters">
+            <span class="tag-filter-label" data-i18n="tag_label">Tags:</span>
+            <button class="tag-filter-btn" data-tag="Top 10" data-i18n="tag_top10">🔥 Top 10</button>
+            <button class="tag-filter-btn" data-tag="Top 20" data-i18n="tag_top20">⭐ Top 20</button>
+            <button class="tag-filter-btn" data-tag="Open Source" data-i18n="tag_opensource">🛠️ Open Source</button>
+            <button class="tag-filter-btn" data-tag="Free" data-i18n="tag_free">💚 Free</button>
+            <button class="tag-filter-btn" data-tag="API" data-i18n="tag_api">⚡ API</button>
+        </div>
+
+        <div class="toolbar">
+            <span id="toolsCount" class="tools-count" data-i18n="loading">Loading...</span>
+            <select id="sortSelect" class="sort-select">
+                <option value="default" data-i18n="sort_default">Default</option>
+                <option value="az" data-i18n="sort_az">A → Z</option>
+                <option value="za" data-i18n="sort_za">Z → A</option>
+                <option value="top" data-i18n="sort_top">Top rated first</option>
+            </select>
         </div>
 
         <div class="tools-grid" id="toolsGrid">
@@ -41,23 +67,23 @@
     </main>
 
     <section class="seo-content container">
-        <h2>Що таке J.V. AI Index?</h2>
-        <p>J.V. AI Index — це постійно оновлюваний каталог найсучасніших інструментів штучного інтелекту (AI) та
-            нейромереж. Наша мета — зібрати найкращі сервіси для генерації тексту, створення зображень, написання коду
-            та обробки відео в одному зручному місці.</p>
+        <h2 data-i18n="seo_h2">What is J.V. AI Index?</h2>
+        <p data-i18n="seo_p1">J.V. AI Index is a constantly updated catalog of the most advanced artificial intelligence
+            tools and neural networks. Our goal is to gather the best services for text generation, image creation,
+            coding, and video production all in one convenient place.</p>
 
-        <h3>Як обрати найкращу нейромережу?</h3>
-        <p>У нашому каталозі ви знайдете як універсальні рішення (наприклад, <strong>ChatGPT</strong>,
-            <strong>Claude</strong> або <strong>Gemini</strong>), так і вузькоспеціалізовані інструменти для
-            професіоналів. Використовуйте зручні фільтри за категоріями: <em>Текст, Дизайн, Відео, Аудіо та Код</em>,
-            щоб знайти саме те, що допоможе автоматизувати вашу роботу чи творчість.</p>
+        <h3 data-i18n="seo_h3">How to choose the best AI tool?</h3>
+        <p data-i18n="seo_p2">In our catalog you will find both universal solutions (e.g. <strong>ChatGPT</strong>,
+            <strong>Claude</strong>, or <strong>Gemini</strong>) and highly specialized tools for professionals. Use the
+            convenient category filters — <em>Text, Design, Video, Audio, and Code</em> — to find exactly what will help
+            automate your work or creativity.</p>
 
-        <p>Всі інструменти мають відповідні теги, які підкажуть, чи є сервіс повністю автономним, чи входить він до
-            Топ-10 глобальних рейтингів, та чи доступний він безкоштовно.</p>
+        <p data-i18n="seo_p3">All tools have relevant tags that indicate whether a service is fully autonomous, whether
+            it is in the global Top-10 rankings, and whether it is available for free.</p>
     </section>
 
     <footer>
-        <p>© 2026 J.V. AI Index. Всі права захищені.</p>
+        <p data-i18n="footer">© 2026 J.V. AI Index. All rights reserved.</p>
     </footer>
 
     <!-- Auto-monetization script (Skimlinks) -->
