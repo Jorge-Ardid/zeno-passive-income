@@ -141,14 +141,40 @@ h1 {
     color: var(--text-primary);
 }
 
+.tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    justify-content: flex-end;
+}
+
 .category-tag {
-    font-size: 0.75rem;
+    font-size: 0.70rem;
     text-transform: uppercase;
     background: rgba(88, 166, 255, 0.1);
     color: var(--accent);
-    padding: 4px 10px;
-    border-radius: 12px;
-    font-weight: 600;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+/* Специфічні кольори для популярних тегів */
+.tag-10 {
+    background: rgba(255, 123, 114, 0.15);
+    color: #ff7b72;
+    border: 1px solid rgba(255, 123, 114, 0.3);
+}
+
+.tag-20 {
+    background: rgba(210, 168, 255, 0.15);
+    color: #d2a8ff;
+    border: 1px solid rgba(210, 168, 255, 0.3);
+}
+
+.tag- {
+    background: rgba(86, 211, 100, 0.15);
+    color: #56d364;
 }
 
 .card p {
