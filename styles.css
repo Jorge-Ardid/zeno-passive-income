@@ -201,6 +201,32 @@ h1 {
     background-color: var(--accent);
 }
 
+.seo-content {
+    padding: 40px 20px;
+    margin-top: 40px;
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    border: 1px solid #30363d;
+    margin-bottom: 60px;
+}
+
+.seo-content h2,
+.seo-content h3 {
+    color: var(--text-primary);
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+
+.seo-content h2:first-child {
+    margin-top: 0;
+}
+
+.seo-content p {
+    color: var(--text-secondary);
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+
 footer {
     text-align: center;
     padding: 40px 0;

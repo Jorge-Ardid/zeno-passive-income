@@ -14,6 +14,12 @@ const newTools = [
         tags: ["Топ 10", "Універсальний", "Безкоштовно (обмежено)"]
     },
     {
+        id: "antigravity", name: "Antigravity (Google DeepMind)", category: "code",
+        description: "Повноцінний автономний AI-розробник. Не просто чат, а програма, яка розробляє, редагує код і керує всім проєктом під ключ.",
+        url: "#", affiliateLink: "#",
+        tags: ["Топ 10", "Автономність", "Програмування"]
+    },
+    {
         id: "claude35", name: "Claude 3.5 Sonnet", category: "text",
         description: "Швидка і розумна мовна модель від Anthropic. Найкращий вибір для програмування та аналізу великих документів.",
         url: "https://claude.ai", affiliateLink: "https://claude.ai",
@@ -101,7 +107,7 @@ const newTools = [
         id: "cursor", name: "Cursor", category: "code",
         description: "Надсучасний форк VS Code з глибокою інтеграцією ШІ. Розуміє весь контекст проєкту та сам вносить зміни.",
         url: "https://cursor.com", affiliateLink: "https://cursor.com",
-        tags: ["Топ 10", "Програмування", "Редактор"]
+        tags: ["Топ 10", "Автономність", "Програмування"]
     },
     {
         id: "githubcopilot", name: "GitHub Copilot", category: "code",

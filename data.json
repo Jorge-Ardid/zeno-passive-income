@@ -13,6 +13,19 @@
         ]
     },
     {
+        "id": "antigravity",
+        "name": "Antigravity (Google DeepMind)",
+        "category": "code",
+        "description": "Повноцінний автономний AI-розробник. Не просто чат, а програма, яка розробляє, редагує код і керує всім проєктом під ключ.",
+        "url": "#",
+        "affiliateLink": "#",
+        "tags": [
+            "Топ 10",
+            "Автономність",
+            "Програмування"
+        ]
+    },
+    {
         "id": "claude35",
         "name": "Claude 3.5 Sonnet",
         "category": "text",
@@ -201,8 +214,8 @@
         "affiliateLink": "https://cursor.com",
         "tags": [
             "Топ 10",
-            "Програмування",
-            "Редактор"
+            "Автономність",
+            "Програмування"
         ]
     },
     {
