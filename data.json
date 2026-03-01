@@ -1,0 +1,50 @@
+[
+    {
+        "id": "chatgpt",
+        "name": "ChatGPT",
+        "category": "text",
+        "description": "Потужний чат-бот від OpenAI. Ідеально підходить для генерації тексту, програмування та навчання.",
+        "url": "https://chat.openai.com",
+        "affiliateLink": "https://chat.openai.com"
+    },
+    {
+        "id": "midjourney",
+        "name": "Midjourney",
+        "category": "image",
+        "description": "Генерує неймовірно реалістичні та художні зображення за текстовим описом через Discord.",
+        "url": "https://midjourney.com",
+        "affiliateLink": "https://midjourney.com"
+    },
+    {
+        "id": "elevenlabs",
+        "name": "ElevenLabs",
+        "category": "audio",
+        "description": "Найкращий синтез голосу зі збереженням інтонацій та емоцій. Чудово для озвучення відео.",
+        "url": "https://elevenlabs.io",
+        "affiliateLink": "https://elevenlabs.io"
+    },
+    {
+        "id": "githubcopilot",
+        "name": "GitHub Copilot",
+        "category": "code",
+        "description": "Ваш AI-помічник для програмування. Пише код швидше та допомагає з відладкою.",
+        "url": "https://github.com/features/copilot",
+        "affiliateLink": "https://github.com/features/copilot"
+    },
+    {
+        "id": "jasper",
+        "name": "Jasper AI",
+        "category": "text",
+        "description": "Інструмент для маркетологів: генерація рекламних текстів, постів для соцмереж та статей.",
+        "url": "https://jasper.ai",
+        "affiliateLink": "https://jasper.ai"
+    },
+    {
+        "id": "dalle3",
+        "name": "DALL-E 3",
+        "category": "image",
+        "description": "Чудовий генератор зображень від OpenAI, інтегрований у ChatGPT. Точно слідує інструкціям.",
+        "url": "https://openai.com/dall-e-3",
+        "affiliateLink": "https://openai.com/dall-e-3"
+    }
+]

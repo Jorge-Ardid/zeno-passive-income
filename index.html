@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tools Database - Ваш пасивний дохід</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="container">
+            <h1>Zeno <span class="gradient-text">AI Index</span></h1>
+            <p>Каталог найкращих ШІ-інструментів, який оновлюється сам.</p>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Пошук інструментів (напр., ChatGPT)...">
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="filters">
+            <button class="filter-btn active" data-category="all">Всі</button>
+            <button class="filter-btn" data-category="text">Текст</button>
+            <button class="filter-btn" data-category="image">Ілюстрації</button>
+            <button class="filter-btn" data-category="audio">Аудіо</button>
+            <button class="filter-btn" data-category="code">Код</button>
+        </div>
+
+        <div class="tools-grid" id="toolsGrid">
+            <!-- Items will be injected here by script.js -->
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2026 Zeno AI Index. Всі права захищені.</p>
+        <p>Автономний проект для пасивного доходу.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
