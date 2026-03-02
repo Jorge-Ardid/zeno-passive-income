@@ -3,63 +3,23 @@
         "id": "chatgpt",
         "name": "ChatGPT (OpenAI)",
         "category": "text",
-        "description": "The most popular and versatile AI chatbot in the world. Perfect for writing, coding, data analysis, and everyday tasks.",
-        "description_uk": "Універсальний і найвідоміший чат-бот у світі. Ідеально підходить для текстів, програмування та аналізу даних.",
-        "description_de": "Der beliebteste und vielseitigste KI-Chatbot der Welt. Perfekt für Texterstellung, Programmierung und Datenanalyse.",
-        "description_fr": "Le chatbot IA le plus populaire au monde. Parfait pour la rédaction, la programmation et l'analyse de données.",
-        "description_es": "El chatbot de IA más popular y versátil del mundo. Perfecto para escribir, programar y analizar datos.",
-        "description_zh": "全球最受欢迎、最通用的AI聊天机器人。非常适合写作、编程和数据分析。",
+        "description": "Універсальний і найвідоміший чат-бот у світі. Ідеально підходить для текстів, програмування та аналізу даних.",
         "url": "https://chat.openai.com",
         "affiliateLink": "https://chat.openai.com",
         "tags": [
-            "Top 10",
-            "Universal",
-            "Free"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Універсальний",
             "Безкоштовно (обмежено)"
-        ],
-        "tags_de": [
-            "Top 10",
-            "Universal",
-            "Kostenlos"
-        ],
-        "tags_fr": [
-            "Top 10",
-            "Universel",
-            "Gratuit"
-        ],
-        "tags_es": [
-            "Top 10",
-            "Universal",
-            "Gratis"
-        ],
-        "tags_zh": [
-            "Top 10",
-            "通用",
-            "免费"
         ]
     },
     {
         "id": "antigravity",
         "name": "Antigravity (Google DeepMind)",
         "category": "code",
-        "description": "A fully autonomous AI developer. Not just a chat — a system that develops, edits code, and manages entire projects end-to-end.",
-        "description_uk": "Повноцінний автономний AI-розробник. Не просто чат, а програма, яка розробляє, редагує код і керує всім проєктом під ключ.",
-        "description_de": "Ein vollständig autonomer KI-Entwickler. Kein Chat, sondern ein System, das Code entwickelt, bearbeitet und ganze Projekte verwaltet.",
-        "description_fr": "Un développeur IA entièrement autonome. Pas seulement un chat, mais un système qui développe, édite du code et gère des projets entiers.",
-        "description_es": "Un desarrollador de IA completamente autónomo. No es solo un chat, es un sistema que desarrolla, edita código y gestiona proyectos completos.",
-        "description_zh": "一个完全自主的AI开发者。不仅仅是聊天，而是一个能够开发、编辑代码并全程管理项目的系统。",
+        "description": "Повноцінний автономний AI-розробник. Не просто чат, а програма, яка розробляє, редагує код і керує всім проєктом під ключ.",
         "url": "#",
         "affiliateLink": "#",
         "tags": [
-            "Top 10",
-            "Autonomous",
-            "Coding"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Автономність",
             "Програмування"
@@ -69,20 +29,10 @@
         "id": "claude35",
         "name": "Claude 3.5 Sonnet",
         "category": "text",
-        "description": "A fast and intelligent language model from Anthropic. The best choice for coding and analyzing large documents.",
-        "description_uk": "Швидка і розумна мовна модель від Anthropic. Найкращий вибір для програмування та аналізу великих документів.",
-        "description_de": "Ein schnelles und intelligentes Sprachmodell von Anthropic. Die beste Wahl für Programmierung und Analyse großer Dokumente.",
-        "description_fr": "Un modèle de langage rapide et intelligent d'Anthropic. Le meilleur choix pour la programmation et l'analyse de grands documents.",
-        "description_es": "Un modelo de lenguaje rápido e inteligente de Anthropic. La mejor opción para programar y analizar documentos grandes.",
-        "description_zh": "Anthropic推出的快速而智能的语言模型。是编程和分析大型文档的最佳选择。",
+        "description": "Швидка і розумна мовна модель від Anthropic. Найкращий вибір для програмування та аналізу великих документів.",
         "url": "https://claude.ai",
         "affiliateLink": "https://claude.ai",
         "tags": [
-            "Top 10",
-            "Coding",
-            "Analysis"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Програмування",
             "Аналіз текстів"
@@ -92,20 +42,10 @@
         "id": "gemini",
         "name": "Google Gemini",
         "category": "text",
-        "description": "Google's powerful AI ecosystem with real-time internet access and deep integration with Google Workspace.",
-        "description_uk": "Потужна екосистема ШІ від Google з доступом до інтернету та інтеграцією з Google Workspace.",
-        "description_de": "Googles leistungsstarkes KI-Ökosystem mit Echtzeit-Internetzugang und tiefer Integration in Google Workspace.",
-        "description_fr": "L'écosystème IA puissant de Google avec accès Internet en temps réel et intégration avec Google Workspace.",
-        "description_es": "El poderoso ecosistema de IA de Google con acceso a internet en tiempo real e integración con Google Workspace.",
-        "description_zh": "谷歌强大的AI生态系统，具有实时互联网访问和与Google Workspace的深度集成。",
+        "description": "Потужна екосистема ШІ від Google з доступом до інтернету та інтеграцією з Google Workspace.",
         "url": "https://gemini.google.com",
         "affiliateLink": "https://gemini.google.com",
         "tags": [
-            "Top 10",
-            "Search",
-            "Google Ecosystem"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Пошук",
             "Google Ecosystem"
@@ -115,20 +55,10 @@
         "id": "deepseek",
         "name": "DeepSeek Coder",
         "category": "code",
-        "description": "An open-source and highly efficient model, specifically trained to write high-quality code and solve math problems.",
-        "description_uk": "Відкрита та надефективна модель, спеціально натренована для написання високоякісного коду та математики.",
-        "description_de": "Ein Open-Source-Modell, das speziell für das Schreiben von hochwertigem Code und das Lösen von Matheproblemen trainiert wurde.",
-        "description_fr": "Un modèle open-source très efficace, spécialement entraîné pour écrire du code de haute qualité et résoudre des problèmes mathématiques.",
-        "description_es": "Un modelo de código abierto altamente eficiente, especialmente entrenado para escribir código de alta calidad y resolver problemas matemáticos.",
-        "description_zh": "专为编写高质量代码和解决数学问题而训练的开源高效模型。",
+        "description": "Відкрита та надефективна модель, спеціально натренована для написання високоякісного коду та математики.",
         "url": "https://chat.deepseek.com",
         "affiliateLink": "https://chat.deepseek.com",
         "tags": [
-            "Top 10",
-            "Coding",
-            "Open Source"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Код",
             "Open source"
@@ -138,20 +68,10 @@
         "id": "grok",
         "name": "Grok (xAI)",
         "category": "text",
-        "description": "Elon Musk's AI, integrated into X (Twitter). Has real-time information access and a unique sense of humor.",
-        "description_uk": "ШІ від Ілона Маска, інтегрований в X (Twitter). Має доступ до інформації в реальному часі та відчуття гумору.",
-        "description_de": "Elon Musks KI, in X (Twitter) integriert. Hat Echtzeit-Informationszugang und einen einzigartigen Sinn für Humor.",
-        "description_fr": "L'IA d'Elon Musk, intégrée dans X (Twitter). Accès aux informations en temps réel et sens de l'humour unique.",
-        "description_es": "La IA de Elon Musk, integrada en X (Twitter). Tiene acceso a información en tiempo real y un sentido del humor único.",
-        "description_zh": "埃隆·马斯克的AI，集成在X（Twitter）中。具有实时信息访问功能和独特的幽默感。",
+        "description": "ШІ від Ілона Маска, інтегрований в X (Twitter). Має доступ до інформації в реальному часі та відчуття гумору.",
         "url": "https://grok.x.ai",
         "affiliateLink": "https://grok.x.ai",
         "tags": [
-            "Top 20",
-            "Real-time",
-            "Uncensored"
-        ],
-        "tags_uk": [
             "Топ 20",
             "Real-time",
             "Без цензури"
@@ -161,20 +81,10 @@
         "id": "perplexity",
         "name": "Perplexity AI",
         "category": "text",
-        "description": "A revolutionary AI search engine that gives direct answers with real citations and links to primary sources.",
-        "description_uk": "Революційний пошуковик, який дає прямі відповіді з реальними посиланнями на першоджерела.",
-        "description_de": "Eine revolutionäre KI-Suchmaschine, die direkte Antworten mit echten Zitaten und Links zu Primärquellen gibt.",
-        "description_fr": "Un moteur de recherche IA révolutionnaire qui donne des réponses directes avec de vraies citations et des liens vers les sources primaires.",
-        "description_es": "Un buscador de IA revolucionario que da respuestas directas con citas reales y enlaces a fuentes primarias.",
-        "description_zh": "一款革命性的AI搜索引擎，能提供直接答案，并附带真实引用和原始资料链接。",
+        "description": "Революційний пошуковик, який дає прямі відповіді з реальними посиланнями на першоджерела.",
         "url": "https://perplexity.ai",
         "affiliateLink": "https://perplexity.ai",
         "tags": [
-            "Top 10",
-            "Search",
-            "Research"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Пошук",
             "Дослідження"
@@ -184,20 +94,10 @@
         "id": "midjourney",
         "name": "Midjourney",
         "category": "image",
-        "description": "The unrivaled generator of artistic and photorealistic images through a Discord interface.",
-        "description_uk": "Неперевершений генератор художніх та фотореалістичних зображень через інтерфейс Discord.",
-        "description_de": "Der unübertroffene Generator für künstlerische und fotorealistische Bilder über die Discord-Oberfläche.",
-        "description_fr": "Le générateur inégalé d'images artistiques et photoréalistes via une interface Discord.",
-        "description_es": "El generador incomparable de imágenes artísticas y fotorrealistas a través de la interfaz de Discord.",
-        "description_zh": "通过Discord界面生成艺术和照片级真实图像的无与伦比的生成器。",
+        "description": "Неперевершений генератор художніх та фотореалістичних зображень через інтерфейс Discord.",
         "url": "https://midjourney.com",
         "affiliateLink": "https://midjourney.com",
         "tags": [
-            "Top 10",
-            "Art",
-            "Design"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Мистецтво",
             "Дизайн"
@@ -207,19 +107,10 @@
         "id": "dalle3",
         "name": "DALL-E 3",
         "category": "image",
-        "description": "OpenAI's image generator that perfectly understands complex prompts and is integrated directly into ChatGPT.",
-        "description_uk": "Генератор зображень від OpenAI, що ідеально розуміє складні промпти та інтегрований у ChatGPT.",
-        "description_de": "OpenAIs Bildgenerator, der komplexe Prompts perfekt versteht und direkt in ChatGPT integriert ist.",
-        "description_fr": "Le générateur d'images d'OpenAI qui comprend parfaitement les prompts complexes et est intégré dans ChatGPT.",
-        "description_es": "El generador de imágenes de OpenAI que entiende a la perfección los prompts complejos y está integrado en ChatGPT.",
-        "description_zh": "OpenAI的图像生成器，能完美理解复杂提示，并直接集成在ChatGPT中。",
+        "description": "Генератор зображень від OpenAI, що ідеально розуміє складні промпти та інтегрований у ChatGPT.",
         "url": "https://openai.com/dall-e-3",
         "affiliateLink": "https://openai.com/dall-e-3",
         "tags": [
-            "Top 20",
-            "Illustrations"
-        ],
-        "tags_uk": [
             "Топ 20",
             "Ілюстрації"
         ]
@@ -228,20 +119,10 @@
         "id": "leonardo",
         "name": "Leonardo AI",
         "category": "image",
-        "description": "A powerful platform for creating game assets and design with extensive control over the generation process.",
-        "description_uk": "Потужна платформа для створення ігрових ассетів та дизайну з великим контролем над генерацією.",
-        "description_de": "Eine leistungsstarke Plattform zur Erstellung von Spielressourcen und Designs mit umfassender Kontrolle über den Generierungsprozess.",
-        "description_fr": "Une plateforme puissante pour créer des assets de jeux et des designs avec un grand contrôle sur le processus de génération.",
-        "description_es": "Una poderosa plataforma para crear assets de juegos y diseño con un amplio control sobre el proceso de generación.",
-        "description_zh": "一个强大的平台，用于创建游戏资产和设计，对生成过程具有广泛的控制。",
+        "description": "Потужна платформа для створення ігрових ассетів та дизайну з великим контролем над генерацією.",
         "url": "https://leonardo.ai",
         "affiliateLink": "https://leonardo.ai",
         "tags": [
-            "Top 20",
-            "Game Dev",
-            "Free"
-        ],
-        "tags_uk": [
             "Топ 20",
             "Геймдев",
             "Безкоштовно"
@@ -251,20 +132,10 @@
         "id": "runway",
         "name": "Runway Gen-2",
         "category": "video",
-        "description": "Leaders in text-to-video and image-to-video generation. The top choice for video content creators.",
-        "description_uk": "Лідери в генерації відео з тексту або зображень. Найкращий вибір для відео-кріейторів.",
-        "description_de": "Führend in der Text-zu-Video- und Bild-zu-Video-Generierung. Die Top-Wahl für Video-Content-Creator.",
-        "description_fr": "Leaders dans la génération vidéo à partir de texte ou d'image. Le meilleur choix pour les créateurs de contenu vidéo.",
-        "description_es": "Líderes en generación de video desde texto e imagen. La mejor opción para los creadores de contenido de video.",
-        "description_zh": "文本到视频和图像到视频生成的领导者。视频内容创作者的首选。",
+        "description": "Лідери в генерації відео з тексту або зображень. Найкращий вибір для відео-кріейторів.",
         "url": "https://runwayml.com",
         "affiliateLink": "https://runwayml.com",
         "tags": [
-            "Top 10",
-            "Video",
-            "Cinema"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Відео",
             "Кіно"
@@ -274,20 +145,10 @@
         "id": "sora",
         "name": "Sora (OpenAI)",
         "category": "video",
-        "description": "Generates incredibly realistic and physically accurate video clips up to one minute long.",
-        "description_uk": "Генерація неймовірно реалістичних та фізично коректних відеороликів тривалістю до хвилини.",
-        "description_de": "Erzeugt unglaublich realistische und physikalisch korrekte Videoclips mit einer Länge von bis zu einer Minute.",
-        "description_fr": "Génère des clips vidéo incroyablement réalistes et physiquement précis jusqu'à une minute de long.",
-        "description_es": "Genera videoclips increíblemente realistas y físicamente precisos de hasta un minuto de duración.",
-        "description_zh": "生成长达一分钟的令人难以置信的逼真且物理精确的视频片段。",
+        "description": "Генерація неймовірно реалістичних та фізично коректних відеороликів тривалістю до хвилини.",
         "url": "https://openai.com/sora",
         "affiliateLink": "https://openai.com/sora",
         "tags": [
-            "Top 10",
-            "Video",
-            "Animation"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Відео",
             "Анімація"
@@ -297,20 +158,10 @@
         "id": "heygen",
         "name": "HeyGen",
         "category": "video",
-        "description": "Create professional videos with realistic AI avatars and voice cloning in minutes.",
-        "description_uk": "Створення професійних відео з реалістичними AI-аватарами та клонуванням голосу за лічені хвилини.",
-        "description_de": "Erstellen Sie professionelle Videos mit realistischen KI-Avataren und Stimmenklonung in wenigen Minuten.",
-        "description_fr": "Créez des vidéos professionnelles avec des avatars IA réalistes et le clonage de voix en quelques minutes.",
-        "description_es": "Crea videos profesionales con avatares de IA realistas y clonación de voz en minutos.",
-        "description_zh": "在几分钟内用逼真的AI头像和声音克隆制作专业视频。",
+        "description": "Створення професійних відео з реалістичними AI-аватарами та клонуванням голосу за лічені хвилини.",
         "url": "https://heygen.com",
         "affiliateLink": "https://heygen.com",
         "tags": [
-            "Top 20",
-            "Avatars",
-            "Marketing"
-        ],
-        "tags_uk": [
             "Топ 20",
             "Аватари",
             "Маркетинг"
@@ -320,20 +171,10 @@
         "id": "elevenlabs",
         "name": "ElevenLabs",
         "category": "audio",
-        "description": "The world's best voice synthesis and cloning tool with perfect intonation preservation.",
-        "description_uk": "Найкращий у світі синтез голосу та клонування зі збереженням інтонацій.",
-        "description_de": "Das beste Stimmensynthese- und Klonierungstool der Welt mit perfekter Intonationsbewahrung.",
-        "description_fr": "Le meilleur outil de synthèse et de clonage vocal au monde avec une préservation parfaite des intonations.",
-        "description_es": "La mejor herramienta de síntesis y clonación de voz del mundo con perfecta preservación de la entonación.",
-        "description_zh": "全球最佳语音合成和克隆工具，完美保留语调。",
+        "description": "Найкращий у світі синтез голосу та клонування зі збереженням інтонацій.",
         "url": "https://elevenlabs.io",
         "affiliateLink": "https://elevenlabs.io",
         "tags": [
-            "Top 10",
-            "Voice",
-            "Voiceover"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Голос",
             "Озвучка"
@@ -343,20 +184,10 @@
         "id": "suno",
         "name": "Suno AI",
         "category": "audio",
-        "description": "Generates complete songs (with vocals and music) in any genre from your text description.",
-        "description_uk": "Генерує повноцінні пісні (з вокалом та музикою) у будь-якому жанрі за вашим текстовим описом.",
-        "description_de": "Generiert vollständige Songs (mit Gesang und Musik) in jedem Genre aus Ihrer Textbeschreibung.",
-        "description_fr": "Génère des chansons complètes (avec voix et musique) dans n'importe quel genre à partir de votre description textuelle.",
-        "description_es": "Genera canciones completas (con voz y música) en cualquier género a partir de tu descripción de texto.",
-        "description_zh": "根据您的文字描述生成任何风格的完整歌曲（含人声和音乐）。",
+        "description": "Генерує повноцінні пісні (з вокалом та музикою) у будь-якому жанрі за вашим текстовим описом.",
         "url": "https://suno.com",
         "affiliateLink": "https://suno.com",
         "tags": [
-            "Top 10",
-            "Music",
-            "Entertainment"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Музика",
             "Розваги"
@@ -366,19 +197,10 @@
         "id": "udio",
         "name": "Udio",
         "category": "audio",
-        "description": "A Suno rival with incredible sound quality and high control over track structure.",
-        "description_uk": "Вбивця Suno з неймовірною якістю звучання та високим контролем над структурою треку.",
-        "description_de": "Ein Suno-Rivale mit unglaublicher Klangqualität und hoher Kontrolle über die Track-Struktur.",
-        "description_fr": "Un rival de Suno avec une qualité sonore incroyable et un contrôle élevé sur la structure du morceau.",
-        "description_es": "Un rival de Suno con una increíble calidad de sonido y alto control sobre la estructura de la pista.",
-        "description_zh": "Suno的竞争对手，具有令人难以置信的音质和对音轨结构的高度控制。",
+        "description": "Вбивця Suno з неймовірною якістю звучання та високим контролем над структурою треку.",
         "url": "https://udio.com",
         "affiliateLink": "https://udio.com",
         "tags": [
-            "Top 20",
-            "Music"
-        ],
-        "tags_uk": [
             "Топ 20",
             "Музика"
         ]
@@ -387,20 +209,10 @@
         "id": "cursor",
         "name": "Cursor",
         "category": "code",
-        "description": "A cutting-edge VS Code fork with deep AI integration. Understands your entire project context and applies changes automatically.",
-        "description_uk": "Надсучасний форк VS Code з глибокою інтеграцією ШІ. Розуміє весь контекст проєкту та сам вносить зміни.",
-        "description_de": "Ein hochmoderner VS Code Fork mit tiefer KI-Integration. Versteht den gesamten Projektkontext und nimmt Änderungen automatisch vor.",
-        "description_fr": "Un fork VS Code de pointe avec une intégration IA profonde. Comprend tout le contexte de votre projet et applique les modifications automatiquement.",
-        "description_es": "Un fork de VS Code de vanguardia con profunda integración de IA. Entiende todo el contexto del proyecto y aplica cambios automáticamente.",
-        "description_zh": "一款具有深度AI集成的先进VS Code分支。理解整个项目上下文并自动应用更改。",
+        "description": "Надсучасний форк VS Code з глибокою інтеграцією ШІ. Розуміє весь контекст проєкту та сам вносить зміни.",
         "url": "https://cursor.com",
         "affiliateLink": "https://cursor.com",
         "tags": [
-            "Top 10",
-            "Autonomous",
-            "Coding"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Автономність",
             "Програмування"
@@ -410,20 +222,10 @@
         "id": "githubcopilot",
         "name": "GitHub Copilot",
         "category": "code",
-        "description": "Microsoft's AI coding assistant. Writes code faster and helps with debugging directly in your editor.",
-        "description_uk": "AI-помічник для програмування від Microsoft. Пише код швидше та допомагає з відладкою у вашому редакторі.",
-        "description_de": "Microsofts KI-Programmierassistent. Schreibt Code schneller und hilft beim Debuggen direkt in Ihrem Editor.",
-        "description_fr": "L'assistant de programmation IA de Microsoft. Écrit du code plus rapidement et aide au débogage directement dans votre éditeur.",
-        "description_es": "El asistente de programación IA de Microsoft. Escribe código más rápido y ayuda con la depuración directamente en tu editor.",
-        "description_zh": "微软的AI编程助手。在您的编辑器中更快地编写代码并协助调试。",
+        "description": "AI-помічник для програмування від Microsoft. Пише код швидше та допомагає з відладкою у вашому редакторі.",
         "url": "https://github.com/features/copilot",
         "affiliateLink": "https://github.com/features/copilot",
         "tags": [
-            "Top 10",
-            "Coding",
-            "Popular"
-        ],
-        "tags_uk": [
             "Топ 10",
             "Код",
             "Популярне"
@@ -433,20 +235,10 @@
         "id": "notion-ai",
         "name": "Notion AI",
         "category": "text",
-        "description": "An integrated AI for drafting, writing, and brainstorming directly inside your Notion workspace.",
-        "description_uk": "Інтегрований ШІ для створення конспекту, написання текстів та брейнштормінгу прямо у вашому робочому просторі.",
-        "description_de": "Eine integrierte KI zum Entwerfen, Schreiben und Brainstorming direkt in Ihrem Notion-Arbeitsbereich.",
-        "description_fr": "Une IA intégrée pour rédiger, écrire et faire du brainstorming directement dans votre espace de travail Notion.",
-        "description_es": "Una IA integrada para redactar, escribir y hacer lluvia de ideas directamente dentro de tu espacio de trabajo de Notion.",
-        "description_zh": "集成在Notion工作区中的AI，可直接用于起草、写作和头脑风暴。",
+        "description": "Інтегрований ШІ для створення конспекту, написання текстів та брейнштормінгу прямо у вашому робочому просторі.",
         "url": "https://notion.so/product/ai",
         "affiliateLink": "https://notion.so/product/ai",
         "tags": [
-            "Top 20",
-            "Productivity",
-            "Notes"
-        ],
-        "tags_uk": [
             "Топ 20",
             "Продуктивність",
             "Нотатки"
