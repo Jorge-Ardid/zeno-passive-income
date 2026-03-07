@@ -63,6 +63,19 @@ const translations = {
         'tag_val_Free': 'Free',
         'tag_val_Open Source': 'Open Source',
         'tag_val_API': 'API',
+
+        // Insights Section
+        insights_title: 'AI Insights & Reviews',
+        insight_guide: 'Guide',
+        insight_review: 'Review',
+        insight_news: 'News',
+        insight_1_title: 'Top 5 AI Tools for Productivity in 2026',
+        insight_1_desc: 'Discover the essential neural networks that will save you 10+ hours a week.',
+        insight_2_title: 'DeepSeek vs ChatGPT: The Ultimate Comparison',
+        insight_2_desc: 'We tested both models on coding and logic tasks. Here are the results.',
+        insight_3_title: 'How to Use AI for Passive Income',
+        insight_3_desc: 'Practical strategies for launching autonomous projects using modern AI agents.',
+        read_more: 'Read more →',
     },
     uk: {
         lang_code: 'uk',
@@ -114,6 +127,19 @@ const translations = {
         'tag_val_Free': 'Безкоштовно',
         'tag_val_Open Source': 'Open Source',
         'tag_val_API': 'API',
+
+        // Insights Section
+        insights_title: 'AI Огляди та Аналітика',
+        insight_guide: 'Гайд',
+        insight_review: 'Огляд',
+        insight_news: 'Новини',
+        insight_1_title: 'Топ 5 ШІ-інструментів для продуктивності у 2026',
+        insight_1_desc: 'Дізнайтеся про нейромережі, які заощадять вам понад 10 годин на тиждень.',
+        insight_2_title: 'DeepSeek проти ChatGPT: Велике порівняння',
+        insight_2_desc: 'Ми протестували обидві моделі в кодингу та логіці. Ось результати.',
+        insight_3_title: 'Як використовувати ШІ для пасивного доходу',
+        insight_3_desc: 'Практичні стратегії запуску автономних проектів за допомогою ШІ-агентів.',
+        read_more: 'Читати далі →',
     },
     de: {
         lang_code: 'de',
