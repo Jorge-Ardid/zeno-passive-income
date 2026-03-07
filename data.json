@@ -80,12 +80,14 @@
         "tags": [
             "Top 10",
             "Coding",
-            "Analysis"
+            "Analysis",
+            "Free"
         ],
         "tags_uk": [
             "Топ 10",
             "Програмування",
-            "Аналіз текстів"
+            "Аналіз текстів",
+            "Безкоштовно (ліміт)"
         ]
     },
     {
@@ -103,12 +105,12 @@
         "tags": [
             "Top 10",
             "Search",
-            "Google Ecosystem"
+            "Free"
         ],
         "tags_uk": [
             "Топ 10",
             "Пошук",
-            "Google Ecosystem"
+            "Безкоштовно (ліміт)"
         ]
     },
     {
@@ -126,12 +128,14 @@
         "tags": [
             "Top 10",
             "Coding",
-            "Open Source"
+            "Open Source",
+            "Free"
         ],
         "tags_uk": [
             "Топ 10",
             "Код",
-            "Open source"
+            "Open source",
+            "Безкоштовно"
         ]
     },
     {
@@ -172,12 +176,14 @@
         "tags": [
             "Top 10",
             "Search",
-            "Research"
+            "Research",
+            "Free"
         ],
         "tags_uk": [
             "Топ 10",
             "Пошук",
-            "Дослідження"
+            "Дослідження",
+            "Безкоштовно (ліміт)"
         ]
     },
     {
@@ -244,7 +250,7 @@
         "tags_uk": [
             "Топ 20",
             "Геймдев",
-            "Безкоштовно"
+            "Безкоштовно (ліміт)"
         ]
     },
     {
@@ -354,12 +360,14 @@
         "tags": [
             "Top 10",
             "Music",
-            "Entertainment"
+            "Entertainment",
+            "Free"
         ],
         "tags_uk": [
             "Топ 10",
             "Музика",
-            "Розваги"
+            "Розваги",
+            "Безкоштовно (ліміт)"
         ]
     },
     {
@@ -467,12 +475,14 @@
         "tags": [
             "Top 20",
             "Open Source",
-            "API"
+            "API",
+            "Free"
         ],
         "tags_uk": [
             "Топ 20",
             "Open source",
-            "API"
+            "API",
+            "Безкоштовно (ліміт)"
         ]
     },
     {
@@ -487,6 +497,11 @@
             "Marketing",
             "Writing",
             "Enterprise"
+        ],
+        "tags_uk": [
+            "Маркетинг",
+            "Копірайтинг",
+            "Підприємства"
         ]
     },
     {
@@ -501,6 +516,11 @@
             "Marketing",
             "Writing",
             "Social Media"
+        ],
+        "tags_uk": [
+            "Маркетинг",
+            "Копірайтинг",
+            "Соцмережі"
         ]
     },
     {
@@ -515,6 +535,11 @@
             "Writing",
             "Editing",
             "Productivity"
+        ],
+        "tags_uk": [
+            "Копірайтинг",
+            "Редагування",
+            "Продуктивність"
         ]
     },
     {
@@ -529,6 +554,11 @@
             "Writing",
             "Summarizing",
             "Paraphrasing"
+        ],
+        "tags_uk": [
+            "Копірайтинг",
+            "Резюмування",
+            "Перефразування"
         ]
     },
     {
@@ -543,6 +573,11 @@
             "SEO",
             "Content Marketing",
             "Writing"
+        ],
+        "tags_uk": [
+            "SEO",
+            "Контент-маркетинг",
+            "Копірайтинг"
         ]
     },
     {
@@ -557,6 +592,11 @@
             "Design",
             "Easy-to-use",
             "Marketing"
+        ],
+        "tags_uk": [
+            "Дизайн",
+            "Простота",
+            "Маркетинг"
         ]
     },
     {
@@ -571,6 +611,11 @@
             "Design",
             "Commercial",
             "Professional"
+        ],
+        "tags_uk": [
+            "Дизайн",
+            "Комерція",
+            "Професійно"
         ]
     },
     {
@@ -585,6 +630,11 @@
             "Typography",
             "Design",
             "Logos"
+        ],
+        "tags_uk": [
+            "Типографіка",
+            "Дизайн",
+            "Логотипи"
         ]
     },
     {
@@ -598,6 +648,11 @@
         "tags": [
             "Vectors",
             "Design",
+            "SVG"
+        ],
+        "tags_uk": [
+            "Вектори",
+            "Дизайн",
             "SVG"
         ]
     },
@@ -613,6 +668,11 @@
             "Open Source",
             "Image Generation",
             "Advanced"
+        ],
+        "tags_uk": [
+            "Open Source",
+            "Генерація зображень",
+            "Просунуто"
         ]
     },
     {
@@ -627,6 +687,11 @@
             "Avatars",
             "Corporate",
             "Explainer Videos"
+        ],
+        "tags_uk": [
+            "Аватари",
+            "Корпоративні",
+            "Навчальні відео"
         ]
     },
     {
@@ -641,6 +706,11 @@
             "Video Editing",
             "Audio Editing",
             "Podcasting"
+        ],
+        "tags_uk": [
+            "Відеомонтаж",
+            "Аудіомонтаж",
+            "Подкасти"
         ]
     },
     {
@@ -654,6 +724,11 @@
         "tags": [
             "Social Media",
             "Video Generation",
+            "YouTube"
+        ],
+        "tags_uk": [
+            "Соцмережі",
+            "Генерація відео",
             "YouTube"
         ]
     },
@@ -669,6 +744,11 @@
             "Social Media",
             "Video Marketing",
             "Automation"
+        ],
+        "tags_uk": [
+            "Соцмережі",
+            "Відеомаркетинг",
+            "Автоматизація"
         ]
     },
     {
@@ -683,6 +763,11 @@
             "Marketing",
             "Video Creation",
             "Business"
+        ],
+        "tags_uk": [
+            "Маркетинг",
+            "Створення відео",
+            "Бізнес"
         ]
     },
     {
@@ -697,6 +782,11 @@
             "Audio Cleanup",
             "Free",
             "Podcasting"
+        ],
+        "tags_uk": [
+            "Очищення аудіо",
+            "Безкоштовно",
+            "Подкасти"
         ]
     },
     {
@@ -711,6 +801,11 @@
             "Voiceover",
             "Text-to-Speech",
             "Business"
+        ],
+        "tags_uk": [
+            "Озвучка",
+            "Синтез мовлення",
+            "Бізнес"
         ]
     },
     {
@@ -725,6 +820,11 @@
             "Audio Editing",
             "Podcasting",
             "Productivity"
+        ],
+        "tags_uk": [
+            "Аудіомонтаж",
+            "Подкасти",
+            "Продуктивність"
         ]
     },
     {
@@ -739,6 +839,11 @@
             "Coding",
             "Autosuggest",
             "Enterprise"
+        ],
+        "tags_uk": [
+            "Програмування",
+            "Автодоповнення",
+            "Підприємства"
         ]
     },
     {
@@ -753,6 +858,11 @@
             "No-code",
             "Web Apps",
             "Prototyping"
+        ],
+        "tags_uk": [
+            "No-code",
+            "Веб-додатки",
+            "Прототипування"
         ]
     },
     {
@@ -766,7 +876,14 @@
         "tags": [
             "Research",
             "Study",
-            "Notes"
+            "Notes",
+            "Free"
+        ],
+        "tags_uk": [
+            "Дослідження",
+            "Навчання",
+            "Нотатки",
+            "Безкоштовно"
         ]
     },
     {
@@ -781,6 +898,11 @@
             "Presentations",
             "Design",
             "Efficiency"
+        ],
+        "tags_uk": [
+            "Презентації",
+            "Дизайн",
+            "Ефективність"
         ]
     },
     {
@@ -794,6 +916,11 @@
         "tags": [
             "Marketing",
             "Sales",
+            "CRM"
+        ],
+        "tags_uk": [
+            "Маркетинг",
+            "Продажі",
             "CRM"
         ]
     },
@@ -809,6 +936,11 @@
             "SEO",
             "Content Marketing",
             "Writing"
+        ],
+        "tags_uk": [
+            "SEO",
+            "Контент-маркетинг",
+            "Копірайтинг"
         ]
     },
     {
@@ -823,6 +955,11 @@
             "Automation",
             "Workflow",
             "Integrations"
+        ],
+        "tags_uk": [
+            "Автоматизація",
+            "Робочі процеси",
+            "Інтеграції"
         ]
     },
     {
@@ -837,6 +974,11 @@
             "Project Management",
             "Productivity",
             "Collaboration"
+        ],
+        "tags_uk": [
+            "Управління проєктами",
+            "Продуктивність",
+            "Співпраця"
         ]
     },
     {
@@ -850,6 +992,11 @@
         "tags": [
             "Automation",
             "AI Agents",
+            "API"
+        ],
+        "tags_uk": [
+            "Автоматизація",
+            "AI-агенти",
             "API"
         ]
     },
@@ -865,6 +1012,11 @@
             "Video",
             "Voiceover",
             "AI Avatars"
+        ],
+        "tags_uk": [
+            "Відео",
+            "Озвучка",
+            "AI-аватари"
         ]
     },
     {
@@ -879,6 +1031,11 @@
             "Social Media",
             "Video Creation",
             "Audio"
+        ],
+        "tags_uk": [
+            "Соцмережі",
+            "Створення відео",
+            "Аудіо"
         ]
     },
     {
@@ -893,6 +1050,11 @@
             "Art",
             "Video generation",
             "Creative"
+        ],
+        "tags_uk": [
+            "Мистецтво",
+            "Генерація відео",
+            "Творчість"
         ]
     },
     {
@@ -907,6 +1069,11 @@
             "Animation",
             "Video generation",
             "Motion"
+        ],
+        "tags_uk": [
+            "Анімація",
+            "Генерація відео",
+            "Рух"
         ]
     },
     {
@@ -921,6 +1088,11 @@
             "Marketing",
             "Avatars",
             "Communication"
+        ],
+        "tags_uk": [
+            "Маркетинг",
+            "Аватари",
+            "Комунікація"
         ]
     },
     {
@@ -935,6 +1107,11 @@
             "Audio Cleanup",
             "Podcasting",
             "Productivity"
+        ],
+        "tags_uk": [
+            "Очищення аудіо",
+            "Подкасти",
+            "Продуктивність"
         ]
     },
     {
@@ -949,15 +1126,11 @@
             "Voiceover",
             "Game Dev",
             "Brand"
-        ]
-    },
-    {
-        "id": "jasper-campaigns",
-        "name": "Jasper Campaigns",
-        "tags": [
-            "Marketing",
-            "Campaigns",
-            "Efficiency"
+        ],
+        "tags_uk": [
+            "Озвучка",
+            "Геймдев",
+            "Бренд"
         ]
     },
     {
@@ -972,6 +1145,11 @@
             "YouTube",
             "SEO",
             "Analytics"
+        ],
+        "tags_uk": [
+            "YouTube",
+            "SEO",
+            "Аналітика"
         ]
     },
     {
@@ -986,6 +1164,11 @@
             "SEO",
             "Marketing",
             "Professional"
+        ],
+        "tags_uk": [
+            "SEO",
+            "Маркетинг",
+            "Професійно"
         ]
     },
     {
@@ -1000,6 +1183,11 @@
             "Meetings",
             "Transcription",
             "Productivity"
+        ],
+        "tags_uk": [
+            "Зустрічі",
+            "Транскрипція",
+            "Продуктивність"
         ]
     },
     {
@@ -1014,6 +1202,11 @@
             "Meetings",
             "Search",
             "Analytics"
+        ],
+        "tags_uk": [
+            "Зустрічі",
+            "Пошук",
+            "Аналітика"
         ]
     },
     {
@@ -1028,6 +1221,11 @@
             "Writing",
             "Grammar",
             "Essential"
+        ],
+        "tags_uk": [
+            "Копірайтинг",
+            "Граматика",
+            "Необхідне"
         ]
     },
     {
@@ -1042,6 +1240,11 @@
             "Meetings",
             "Free",
             "Recording"
+        ],
+        "tags_uk": [
+            "Зустрічі",
+            "Безкоштовно",
+            "Запис"
         ]
     },
     {
@@ -1056,6 +1259,11 @@
             "Voice-to-Text",
             "Efficiency",
             "Writing"
+        ],
+        "tags_uk": [
+            "Голос у текст",
+            "Ефективність",
+            "Копірайтинг"
         ]
     },
     {
@@ -1070,6 +1278,11 @@
             "Presentations",
             "Design",
             "Automation"
+        ],
+        "tags_uk": [
+            "Презентації",
+            "Дизайн",
+            "Автоматизація"
         ]
     },
     {
@@ -1084,6 +1297,11 @@
             "Summarizing",
             "Reading",
             "Speed"
+        ],
+        "tags_uk": [
+            "Резюмування",
+            "Читання",
+            "Швидкість"
         ]
     },
     {
@@ -1098,6 +1316,11 @@
             "Video Generation",
             "Realistic",
             "Advanced"
+        ],
+        "tags_uk": [
+            "Генерація відео",
+            "Реалістично",
+            "Просунуто"
         ]
     },
     {
@@ -1112,6 +1335,11 @@
             "Music",
             "Studio Quality",
             "Creative"
+        ],
+        "tags_uk": [
+            "Музика",
+            "Студійна якість",
+            "Творчість"
         ]
     },
     {
@@ -1126,6 +1354,11 @@
             "Sound Effects",
             "Game Dev",
             "Film"
+        ],
+        "tags_uk": [
+            "Звукові ефекти",
+            "Геймдев",
+            "Кіно"
         ]
     },
     {
@@ -1140,6 +1373,11 @@
             "API",
             "Developers",
             "Open Source"
+        ],
+        "tags_uk": [
+            "API",
+            "Розробникам",
+            "Open Source"
         ]
     },
     {
@@ -1151,6 +1389,11 @@
         "url": "https://v0.dev",
         "affiliateLink": "https://v0.dev",
         "tags": [
+            "React",
+            "UI/UX",
+            "Vercel"
+        ],
+        "tags_uk": [
             "React",
             "UI/UX",
             "Vercel"
@@ -1168,6 +1411,11 @@
             "Deployment",
             "Coding",
             "Cloud"
+        ],
+        "tags_uk": [
+            "Деплой",
+            "Програмування",
+            "Хмара"
         ]
     },
     {
@@ -1182,6 +1430,11 @@
             "Coding",
             "Free",
             "Speed"
+        ],
+        "tags_uk": [
+            "Програмування",
+            "Безкоштовно",
+            "Швидкість"
         ]
     },
     {
@@ -1195,7 +1448,12 @@
         "tags": [
             "Research",
             "Advanced",
-            "No Hallucination"
+            "No Hallucिनेशन"
+        ],
+        "tags_uk": [
+            "Дослідження",
+            "Просунуто",
+            "Без галюцинацій"
         ]
     },
     {
@@ -1210,6 +1468,11 @@
             "Sales",
             "Copywriting",
             "Marketing"
+        ],
+        "tags_uk": [
+            "Продажі",
+            "Копірайтинг",
+            "Маркетинг"
         ]
     },
     {
@@ -1224,6 +1487,11 @@
             "All-in-one",
             "Social Media",
             "Design"
+        ],
+        "tags_uk": [
+            "Все в одному",
+            "Соцмережі",
+            "Дизайн"
         ]
     }
 ]
