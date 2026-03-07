@@ -382,6 +382,29 @@ h1 {
     color: #56d364;
 }
 
+.seo-cfooter {
+    padding: 60px 0 40px;
+    text-align: center;
+    border-top: 1px solid var(--border);
+    margin-top: 80px;
+}
+
+.footer-links {
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.footer-links a {
+    color: var(--text-muted);
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.footer-links a:hover {
+    color: var(--primary);
+}
+
 .seo-content {
     padding: 40px 20px;
     margin-top: 40px;
