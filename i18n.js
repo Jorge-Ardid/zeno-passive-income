@@ -19,7 +19,6 @@ const translations = {
         filter_text: 'Text & Search',
         filter_image: 'Images & Design',
         filter_video: 'Video',
-        filter_audio: 'Audio & Voice',
         filter_code: 'Code',
 
         // Tag filters
