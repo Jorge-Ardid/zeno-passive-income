@@ -461,7 +461,7 @@
         "description_de": "Leistungsstarke offene Sprachmodelle des französischen Unternehmens Mistral. Bekannt für Effizienz und Verfügbarkeit über API und lokalen Einsatz.",
         "description_fr": "De puissants modèles de langage ouverts de l'entreprise française Mistral. Connus pour leur efficacité et leur disponibilité via API et déploiement local.",
         "description_es": "Potentes modelos de lenguaje abiertos de la empresa francesa Mistral. Conocidos por su eficiencia y disponibilidad a través de API y despliegue local.",
-        "description_zh": "法国公司Mistral推出的强大开放语言模型。以其通过API和本地部署的高效性和可用性而闻名。",
+        "description_zh": "法国公司Mistral推出的强大开放语言模型。以其通过API and 本地部署的高效性和可用性而闻名。",
         "url": "https://chat.mistral.ai",
         "affiliateLink": "https://chat.mistral.ai",
         "tags": [
@@ -473,6 +473,757 @@
             "Топ 20",
             "Open source",
             "API"
+        ]
+    },
+    {
+        "id": "jasper",
+        "name": "Jasper AI",
+        "category": "text",
+        "description": "Enterprise-grade AI content platform for marketing teams. Maintains brand voice across all generated content.",
+        "description_uk": "Платформа корпоративного рівня для створення маркетингового контенту. Зберігає фірмовий голос бренду.",
+        "url": "https://www.jasper.ai",
+        "affiliateLink": "https://www.jasper.ai",
+        "tags": [
+            "Marketing",
+            "Writing",
+            "Enterprise"
+        ]
+    },
+    {
+        "id": "copyai",
+        "name": "Copy.ai",
+        "category": "text",
+        "description": "AI-powered copywriter for social media, ads, and eCommerce. Great for overcoming writer's block.",
+        "description_uk": "AI-копірайтер для соцмереж, реклами та e-commerce. Допомагає подолати творчу кризу.",
+        "url": "https://www.copy.ai",
+        "affiliateLink": "https://www.copy.ai",
+        "tags": [
+            "Marketing",
+            "Writing",
+            "Social Media"
+        ]
+    },
+    {
+        "id": "grammarlygo",
+        "name": "GrammarlyGO",
+        "category": "text",
+        "description": "Context-aware AI assistance that helps you write, edit, and summarize directly where you work.",
+        "description_uk": "Контекстний AI-помічник, який допомагає писати, редагувати та резюмувати тексти прямо у вашому браузері.",
+        "url": "https://www.grammarly.com/go",
+        "affiliateLink": "https://www.grammarly.com/go",
+        "tags": [
+            "Writing",
+            "Editing",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "quillbot",
+        "name": "QuillBot",
+        "category": "text",
+        "description": "AI paraphrasing tool that helps you rewrite sentences to improve clarity and avoid plagiarism.",
+        "description_uk": "Інструмент для перефразування, який допомагає покращити чіткість тексту та уникнути плагіату.",
+        "url": "https://quillbot.com",
+        "affiliateLink": "https://quillbot.com",
+        "tags": [
+            "Writing",
+            "Summarizing",
+            "Paraphrasing"
+        ]
+    },
+    {
+        "id": "semrush-shake",
+        "name": "ContentShake AI",
+        "category": "text",
+        "description": "Combines SEO data with AI to create full-length, optimized articles that rank in search engines.",
+        "description_uk": "Поєднує SEO-дані з ШІ для створення повноцінних оптимізованих статей для пошуковиків.",
+        "url": "https://www.semrush.com/content-shake/",
+        "affiliateLink": "https://www.semrush.com/content-shake/",
+        "tags": [
+            "SEO",
+            "Content Marketing",
+            "Writing"
+        ]
+    },
+    {
+        "id": "canva-magic",
+        "name": "Canva Magic Studio",
+        "category": "image",
+        "description": "All-in-one AI design platform. Generate images, layouts, and edit photos with simple text commands.",
+        "description_uk": "Універсальна платформа для дизайну. Генеруйте зображення, макети та редагуйте фото текстом.",
+        "url": "https://www.canva.com/ai/",
+        "affiliateLink": "https://www.canva.com/ai/",
+        "tags": [
+            "Design",
+            "Easy-to-use",
+            "Marketing"
+        ]
+    },
+    {
+        "id": "adobe-firefly",
+        "name": "Adobe Firefly",
+        "category": "image",
+        "description": "Generative AI integrated into Photoshop and Illustrator. High quality and commercially safe.",
+        "description_uk": "Генеративний ШІ, інтегрований у Photoshop та Illustrator. Безпечний для комерційного використання.",
+        "url": "https://www.adobe.com/firefly",
+        "affiliateLink": "https://www.adobe.com/firefly",
+        "tags": [
+            "Design",
+            "Commercial",
+            "Professional"
+        ]
+    },
+    {
+        "id": "ideogram",
+        "name": "Ideogram",
+        "category": "image",
+        "description": "The best AI for generating images with readable text. Perfect for logos, posters, and social media.",
+        "description_uk": "Найкращий ШІ для генерації зображень з розбірливим текстом. Ідеально для логотипів та плакатів.",
+        "url": "https://ideogram.ai",
+        "affiliateLink": "https://ideogram.ai",
+        "tags": [
+            "Typography",
+            "Design",
+            "Logos"
+        ]
+    },
+    {
+        "id": "recraft-ai",
+        "name": "Recraft.ai",
+        "category": "image",
+        "description": "Professional tool for creating vector art and brand illustrations. Exports native SVG files.",
+        "description_uk": "Професійний інструмент для створення векторної графіки та ілюстрацій. Експорт у SVG.",
+        "url": "https://www.recraft.ai",
+        "affiliateLink": "https://www.recraft.ai",
+        "tags": [
+            "Vectors",
+            "Design",
+            "SVG"
+        ]
+    },
+    {
+        "id": "stability-diffusion",
+        "name": "Stable Diffusion",
+        "category": "image",
+        "description": "The most flexible open-source image generation model. Runs locally or via web interfaces.",
+        "description_uk": "Найбільш гнучка open-source модель для генерації зображень. Можна запускати локально.",
+        "url": "https://stability.ai",
+        "affiliateLink": "https://stability.ai",
+        "tags": [
+            "Open Source",
+            "Image Generation",
+            "Advanced"
+        ]
+    },
+    {
+        "id": "synthesia",
+        "name": "Synthesia",
+        "category": "video",
+        "description": "Create professional videos with AI avatars in minutes. No camera or microphone needed.",
+        "description_uk": "Створюйте професійні відео з AI-аватарами за лічені хвилини без камери чи мікрофона.",
+        "url": "https://www.synthesia.io",
+        "affiliateLink": "https://www.synthesia.io",
+        "tags": [
+            "Avatars",
+            "Corporate",
+            "Explainer Videos"
+        ]
+    },
+    {
+        "id": "descript",
+        "name": "Descript",
+        "category": "video",
+        "description": "Edit video and audio by editing the text transcript. Includes powerful voice cloning for corrections.",
+        "description_uk": "Редагуйте відео та аудіо через текст. Включає клонування голосу для виправлення помилок.",
+        "url": "https://www.descript.com",
+        "affiliateLink": "https://www.descript.com",
+        "tags": [
+            "Video Editing",
+            "Audio Editing",
+            "Podcasting"
+        ]
+    },
+    {
+        "id": "invideo-ai",
+        "name": "Invideo AI",
+        "category": "video",
+        "description": "Generate complete videos for YouTube or TikTok from a prompt. Includes voiceover and b-roll.",
+        "description_uk": "Генеруйте готові відео для YouTube чи TikTok за текстовим запитом. Включає озвучку та футажі.",
+        "url": "https://invideo.io",
+        "affiliateLink": "https://invideo.io",
+        "tags": [
+            "Social Media",
+            "Video Generation",
+            "YouTube"
+        ]
+    },
+    {
+        "id": "pictory",
+        "name": "Pictory",
+        "category": "video",
+        "description": "Automatically turn long-form content like blog posts into short, shareable social media videos.",
+        "description_uk": "Автоматично перетворюйте довгі статті на короткі відео для соцмереж.",
+        "url": "https://pictory.ai",
+        "affiliateLink": "https://pictory.ai",
+        "tags": [
+            "Social Media",
+            "Video Marketing",
+            "Automation"
+        ]
+    },
+    {
+        "id": "lumen5",
+        "name": "Lumen5",
+        "category": "video",
+        "description": "Video creation platform designed for brands and businesses to produce engaging video stories.",
+        "description_uk": "Платформа для створення відеоінструкцій та історій для брендів.",
+        "url": "https://lumen5.com",
+        "affiliateLink": "https://lumen5.com",
+        "tags": [
+            "Marketing",
+            "Video Creation",
+            "Business"
+        ]
+    },
+    {
+        "id": "adobe-podcast",
+        "name": "Adobe Podcast Enhance",
+        "category": "audio",
+        "description": "AI tool that removes noise from voice recordings, making them sound like they were recorded in a studio.",
+        "description_uk": "ШІ для очищення записів голосу від шуму, створює ефект запису в професійній студії.",
+        "url": "https://podcast.adobe.com/enhance",
+        "affiliateLink": "https://podcast.adobe.com/enhance",
+        "tags": [
+            "Audio Cleanup",
+            "Free",
+            "Podcasting"
+        ]
+    },
+    {
+        "id": "murf",
+        "name": "Murf AI",
+        "category": "audio",
+        "description": "High-quality text-to-speech for professional voiceovers, presentations, and training videos.",
+        "description_uk": "Високоякісний синтез мовлення для озвучки професійних відео та презентацій.",
+        "url": "https://murf.ai",
+        "affiliateLink": "https://murf.ai",
+        "tags": [
+            "Voiceover",
+            "Text-to-Speech",
+            "Business"
+        ]
+    },
+    {
+        "id": "cleanvoice",
+        "name": "Cleanvoice",
+        "category": "audio",
+        "description": "AI that automatically removes filler words (um, uh) and mouth sounds from your audio recordings.",
+        "description_uk": "ШІ, який автоматично видаляє слова-паразити та сторонні звуки з аудіозаписів.",
+        "url": "https://cleanvoice.ai",
+        "affiliateLink": "https://cleanvoice.ai",
+        "tags": [
+            "Audio Editing",
+            "Podcasting",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "tabnine",
+        "name": "Tabnine",
+        "category": "code",
+        "description": "Enterprise AI for software development. Learns your patterns and provides private code completions.",
+        "description_uk": "AI для корпоративної розробки ПЗ. Вчиться на ваших паттернах і забезпечує приватність.",
+        "url": "https://www.tabnine.com",
+        "affiliateLink": "https://www.tabnine.com",
+        "tags": [
+            "Coding",
+            "Autosuggest",
+            "Enterprise"
+        ]
+    },
+    {
+        "id": "lovable-ai",
+        "name": "Lovable",
+        "category": "code",
+        "description": "Build web applications and websites from plain English prompts. Perfect for rapid prototyping.",
+        "description_uk": "Створюйте веб-програми та сайти за допомогою звичайних англійських запитів.",
+        "url": "https://lovable.ai",
+        "affiliateLink": "https://lovable.ai",
+        "tags": [
+            "No-code",
+            "Web Apps",
+            "Prototyping"
+        ]
+    },
+    {
+        "id": "notebooklm",
+        "name": "NotebookLM",
+        "category": "text",
+        "description": "Google's research assistant that grounds AI answers in your documents to prevent hallucinations.",
+        "description_uk": "Дослідницький помічник від Google, який шукає відповіді виключно у ваших документах.",
+        "url": "https://notebooklm.google.com/",
+        "affiliateLink": "https://notebooklm.google.com/",
+        "tags": [
+            "Research",
+            "Study",
+            "Notes"
+        ]
+    },
+    {
+        "id": "gamma-app",
+        "name": "Gamma",
+        "category": "text",
+        "description": "Generate beautiful presentations, documents, and webpages from a single text prompt.",
+        "description_uk": "Створюйте чудові презентації, документи та веб-сторінки за одним текстовим запитом.",
+        "url": "https://gamma.app",
+        "affiliateLink": "https://gamma.app",
+        "tags": [
+            "Presentations",
+            "Design",
+            "Efficiency"
+        ]
+    },
+    {
+        "id": "hubspot-ai",
+        "name": "HubSpot AI",
+        "category": "text",
+        "description": "Marketing and sales automation powered by AI. Generate content and manage leads efficiently.",
+        "description_uk": "Автоматизація маркетингу та продажів за допомогою ШІ у системі HubSpot.",
+        "url": "https://www.hubspot.com/products/ai",
+        "affiliateLink": "https://www.hubspot.com/products/ai",
+        "tags": [
+            "Marketing",
+            "Sales",
+            "CRM"
+        ]
+    },
+    {
+        "id": "surferseo",
+        "name": "Surfer SEO",
+        "category": "text",
+        "description": "Content optimization tool that analyzes top-ranking pages to help you write better SEO content.",
+        "description_uk": "Інструмент для оптимізації контенту, який аналізує конкурентів у пошуку.",
+        "url": "https://surferseo.com",
+        "affiliateLink": "https://surferseo.com",
+        "tags": [
+            "SEO",
+            "Content Marketing",
+            "Writing"
+        ]
+    },
+    {
+        "id": "zapier-ai",
+        "name": "Zapier AI",
+        "category": "text",
+        "description": "Build complex automated workflows between thousands of apps using natural language.",
+        "description_uk": "Створюйте складні автоматизовані ланцюжки між тисячами додатків за допомогою звичайної мови.",
+        "url": "https://zapier.com/ai",
+        "affiliateLink": "https://zapier.com/ai",
+        "tags": [
+            "Automation",
+            "Workflow",
+            "Integrations"
+        ]
+    },
+    {
+        "id": "clickup-ai",
+        "name": "ClickUp AI",
+        "category": "text",
+        "description": "Project management assistant that writes tasks, summaries, and helps manage team resources.",
+        "description_uk": "Помічник з управління проєктами, який пише описи завдань та резюмує обговорення.",
+        "url": "https://clickup.com/features/ai-project-management",
+        "affiliateLink": "https://clickup.com/features/ai-project-management",
+        "tags": [
+            "Project Management",
+            "Productivity",
+            "Collaboration"
+        ]
+    },
+    {
+        "id": "n8n-ai",
+        "name": "n8n",
+        "category": "text",
+        "description": "Powerful workflow automation tool with advanced AI agent building capabilities.",
+        "description_uk": "Потужний інструмент автоматизації з глибокою підтримкою створення AI-агентів.",
+        "url": "https://n8n.io",
+        "affiliateLink": "https://n8n.io",
+        "tags": [
+            "Automation",
+            "AI Agents",
+            "API"
+        ]
+    },
+    {
+        "id": "synthesys",
+        "name": "Synthesys",
+        "category": "video",
+        "description": "Professional video and audio engine featuring lifelike avatars and digital voices.",
+        "description_uk": "Платформа для створення відео та аудіо з фотореалістичними аватарами.",
+        "url": "https://synthesys.io",
+        "affiliateLink": "https://synthesys.io",
+        "tags": [
+            "Video",
+            "Voiceover",
+            "AI Avatars"
+        ]
+    },
+    {
+        "id": "fliki",
+        "name": "Fliki",
+        "category": "video",
+        "description": "Convert blog articles or PDFs into high-quality videos with AI voices in seconds.",
+        "description_uk": "Перетворюйте статті з блогу або PDF-файли на якісні відео за лічені секунди.",
+        "url": "https://fliki.ai",
+        "affiliateLink": "https://fliki.ai",
+        "tags": [
+            "Social Media",
+            "Video Creation",
+            "Audio"
+        ]
+    },
+    {
+        "id": "kaiber",
+        "name": "Kaiber",
+        "category": "video",
+        "description": "AI creative motor that generates stunning, artistic videos from images and music.",
+        "description_uk": "Творчий AI-двигун для генерації художніх відео з зображень та музики.",
+        "url": "https://kaiber.ai",
+        "affiliateLink": "https://kaiber.ai",
+        "tags": [
+            "Art",
+            "Video generation",
+            "Creative"
+        ]
+    },
+    {
+        "id": "pika-art",
+        "name": "Pika",
+        "category": "video",
+        "description": "Leading AI video platform for creating cinematic animations and realistic motion.",
+        "description_uk": "Платформа для створення кінематографічних анімацій та реалістичного руху.",
+        "url": "https://pika.art",
+        "affiliateLink": "https://pika.art",
+        "tags": [
+            "Animation",
+            "Video generation",
+            "Motion"
+        ]
+    },
+    {
+        "id": "heygen-avatar",
+        "name": "HeyGen Avatars",
+        "category": "video",
+        "description": "Top-tier AI avatars and video translation for personalized marketing and corporate comms.",
+        "description_uk": "Найкращі AI-аватари та відеопереклад для персоналізованого маркетингу.",
+        "url": "https://heygen.com",
+        "affiliateLink": "https://heygen.com",
+        "tags": [
+            "Marketing",
+            "Avatars",
+            "Communication"
+        ]
+    },
+    {
+        "id": "audostudio",
+        "name": "Audo Studio",
+        "category": "audio",
+        "description": "Fast and effective audio cleanup and level adjustment with a single click.",
+        "description_uk": "Швидке та ефективне очищення аудіо та нормалізація гучності в один клік.",
+        "url": "https://audostudio.com",
+        "affiliateLink": "https://audostudio.com",
+        "tags": [
+            "Audio Cleanup",
+            "Podcasting",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "murf-voice",
+        "name": "Murf Voices",
+        "category": "audio",
+        "description": "Versatile digital character voices for gaming, animation, and brand commercials.",
+        "description_uk": "Різноманітні цифрові голоси для ігор, анімації та реклами.",
+        "url": "https://murf.ai",
+        "affiliateLink": "https://murf.ai",
+        "tags": [
+            "Voiceover",
+            "Game Dev",
+            "Brand"
+        ]
+    },
+    {
+        "id": "jasper-campaigns",
+        "name": "Jasper Campaigns",
+        "tags": [
+            "Marketing",
+            "Campaigns",
+            "Efficiency"
+        ]
+    },
+    {
+        "id": "vidiq",
+        "name": "VidIQ",
+        "category": "marketing",
+        "description": "AI-powered tools for YouTube growth, keyword research, and video optimization.",
+        "description_uk": "AI-інструменти для розвитку YouTube-каналів, пошуку ключових слів та оптимізації відео.",
+        "url": "https://vidiq.com",
+        "affiliateLink": "https://vidiq.com",
+        "tags": [
+            "YouTube",
+            "SEO",
+            "Analytics"
+        ]
+    },
+    {
+        "id": "semrush-seo",
+        "name": "Semrush AI",
+        "category": "marketing",
+        "description": "Advanced SEO and content marketing platform with AI features for writing and analysis.",
+        "description_uk": "Просунута платформа для SEO та контент-маркетингу з ШІ-функціями.",
+        "url": "https://www.semrush.com",
+        "affiliateLink": "https://www.semrush.com",
+        "tags": [
+            "SEO",
+            "Marketing",
+            "Professional"
+        ]
+    },
+    {
+        "id": "otter-ai",
+        "name": "Otter.ai",
+        "category": "productivity",
+        "description": "AI meeting assistant that record, transcribes, and summarizes your calls in real-time.",
+        "description_uk": "AI-помічник для зустрічей, який записує, транскрибує та резюмує дзвінки.",
+        "url": "https://otter.ai",
+        "affiliateLink": "https://otter.ai",
+        "tags": [
+            "Meetings",
+            "Transcription",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "fireflies",
+        "name": "Fireflies.ai",
+        "category": "productivity",
+        "description": "Automate your meeting notes. Search and analyze voice conversations from your team meetings.",
+        "description_uk": "Автоматизуйте конспекти зустрічей. Аналізуйте голосові розмови вашої команди.",
+        "url": "https://fireflies.ai",
+        "affiliateLink": "https://fireflies.ai",
+        "tags": [
+            "Meetings",
+            "Search",
+            "Analytics"
+        ]
+    },
+    {
+        "id": "grammarly",
+        "name": "Grammarly",
+        "category": "productivity",
+        "description": "The world's most popular AI writing assistant for grammar, tone, and clarity.",
+        "description_uk": "Найпопулярніший у світі AI-помічник для перевірки граматики та тону повідомлень.",
+        "url": "https://www.grammarly.com",
+        "affiliateLink": "https://www.grammarly.com",
+        "tags": [
+            "Writing",
+            "Grammar",
+            "Essential"
+        ]
+    },
+    {
+        "id": "fathom-video",
+        "name": "Fathom",
+        "category": "productivity",
+        "description": "Free AI meeting recorder that highlights key moments and creates instant summaries.",
+        "description_uk": "Безкоштовний сервіс запису зустрічей з виділенням ключових моментів.",
+        "url": "https://fathom.video",
+        "affiliateLink": "https://fathom.video",
+        "tags": [
+            "Meetings",
+            "Free",
+            "Recording"
+        ]
+    },
+    {
+        "id": "wispr-flow",
+        "name": "Wispr Flow",
+        "category": "productivity",
+        "description": "Voice-to-text tool that understands context and formatting, allowing you to dictate anything.",
+        "description_uk": "Голосовий ввід, який розуміє контекст та форматування тексту.",
+        "url": "https://wisprflow.ai/",
+        "affiliateLink": "https://wisprflow.ai/",
+        "tags": [
+            "Voice-to-Text",
+            "Efficiency",
+            "Writing"
+        ]
+    },
+    {
+        "id": "beautiful-ai",
+        "name": "Beautiful.ai",
+        "category": "productivity",
+        "description": "Presentation software that uses AI to design professional slides as you add content.",
+        "description_uk": "Програма для презентацій, яка сама створює дизайн професійних слайдів.",
+        "url": "https://www.beautiful.ai",
+        "affiliateLink": "https://www.beautiful.ai",
+        "tags": [
+            "Presentations",
+            "Design",
+            "Automation"
+        ]
+    },
+    {
+        "id": "tldr-this",
+        "name": "TLDR This",
+        "category": "productivity",
+        "description": "AI summarizer that condenses long articles and documents into concise key points.",
+        "description_uk": "AI-самайзер, який стискає довгі статті та документи до головних тез.",
+        "url": "https://tldrthis.com",
+        "affiliateLink": "https://tldrthis.com",
+        "tags": [
+            "Summarizing",
+            "Reading",
+            "Speed"
+        ]
+    },
+    {
+        "id": "kling-ai",
+        "name": "Kling AI",
+        "category": "video",
+        "description": "High-end AI video model capable of generating realistic and physics-consistent video clips.",
+        "description_uk": "Висококласна AI-модель для генерації реалістичних відео з коректною фізикою руху.",
+        "url": "https://klingai.com",
+        "affiliateLink": "https://klingai.com",
+        "tags": [
+            "Video Generation",
+            "Realistic",
+            "Advanced"
+        ]
+    },
+    {
+        "id": "udio-music",
+        "name": "Udio Music",
+        "category": "audio",
+        "description": "Next-gen music generation AI that produces studio-quality tracks in any musical style.",
+        "description_uk": "Музичний ШІ нового покоління, що створює треки студійної якості у будь-якому стилі.",
+        "url": "https://udio.com",
+        "affiliateLink": "https://udio.com",
+        "tags": [
+            "Music",
+            "Studio Quality",
+            "Creative"
+        ]
+    },
+    {
+        "id": "elevenlabs-sfx",
+        "name": "ElevenLabs SFX",
+        "category": "audio",
+        "description": "Generate high-quality sound effects from text descriptions for movies and games.",
+        "description_uk": "Генеруйте якісні звукові ефекти за текстовим описом для кіно та ігор.",
+        "url": "https://elevenlabs.io",
+        "affiliateLink": "https://elevenlabs.io",
+        "tags": [
+            "Sound Effects",
+            "Game Dev",
+            "Film"
+        ]
+    },
+    {
+        "id": "replicate",
+        "name": "Replicate",
+        "category": "code",
+        "description": "Run AI models with an API. A catalog of open-source models ready for developers.",
+        "description_uk": "Запускайте AI-моделі через API. Каталог open-source моделей для розробників.",
+        "url": "https://replicate.com",
+        "affiliateLink": "https://replicate.com",
+        "tags": [
+            "API",
+            "Developers",
+            "Open Source"
+        ]
+    },
+    {
+        "id": "v0-dev",
+        "name": "v0.dev",
+        "category": "code",
+        "description": "Generative UI by Vercel. Create React components and web interfaces from text prompts.",
+        "description_uk": "Генеративний UI від Vercel. Створюйте React-компоненти та інтерфейси за промптом.",
+        "url": "https://v0.dev",
+        "affiliateLink": "https://v0.dev",
+        "tags": [
+            "React",
+            "UI/UX",
+            "Vercel"
+        ]
+    },
+    {
+        "id": "replit-ai",
+        "name": "Replit Agent",
+        "category": "code",
+        "description": "AI agent that can build and deploy full web applications from scratch on Replit.",
+        "description_uk": "AI-агент, який може створювати та деплоїти веб-додатки з нуля на Replit.",
+        "url": "https://replit.com",
+        "affiliateLink": "https://replit.com",
+        "tags": [
+            "Deployment",
+            "Coding",
+            "Cloud"
+        ]
+    },
+    {
+        "id": "blackbox-ai",
+        "name": "Blackbox AI",
+        "category": "code",
+        "description": "Fast AI code search and completion for VS Code and other IDEs. Supports 20+ languages.",
+        "description_uk": "Швидкий AI-пошук коду та автодоповнення для популярних редакторів.",
+        "url": "https://www.blackbox.ai",
+        "affiliateLink": "https://www.blackbox.ai",
+        "tags": [
+            "Coding",
+            "Free",
+            "Speed"
+        ]
+    },
+    {
+        "id": "perplexity-pro",
+        "name": "Perplexity Pro",
+        "category": "text",
+        "description": "Professional research engine with access to GPT-4 and Claude 3 Opus. Real-time internet browsing.",
+        "description_uk": "Професійний двигун дослідження з доступом до GPT-4 та Claude 3 Opus.",
+        "url": "https://www.perplexity.ai",
+        "affiliateLink": "https://www.perplexity.ai",
+        "tags": [
+            "Research",
+            "Advanced",
+            "No Hallucination"
+        ]
+    },
+    {
+        "id": "copy-specialist",
+        "name": "Copy Specialist",
+        "category": "marketing",
+        "description": "Customized AI templates for high-converting sales pages and email sequences.",
+        "description_uk": "Спеціалізовані AI-шаблони для створення сторінок продажів з високою конверсією.",
+        "url": "https://www.copy.ai",
+        "affiliateLink": "https://www.copy.ai",
+        "tags": [
+            "Sales",
+            "Copywriting",
+            "Marketing"
+        ]
+    },
+    {
+        "id": "simplified-ai",
+        "name": "Simplified",
+        "category": "marketing",
+        "description": "Design, write, and manage social media in one AI-powered workspace.",
+        "description_uk": "Дизайн, копірайтинг та планування постів у єдиному AI-просторі.",
+        "url": "https://simplified.com",
+        "affiliateLink": "https://simplified.com",
+        "tags": [
+            "All-in-one",
+            "Social Media",
+            "Design"
         ]
     }
 ]
